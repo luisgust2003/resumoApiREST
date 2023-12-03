@@ -47,4 +47,4 @@ Exemplos mais notáveis de códigos de status:
 
 
 
-Autor do resumo: Luis Gustavo de Albuquerque - 01515839
+**Autor do resumo: Luis Gustavo de Albuquerque - 01515839**
