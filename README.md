@@ -23,7 +23,7 @@ OPTIONS - O método OPTIONS descreve as opções de comunicação para o recurso
 
 TRACE - O método TRACE executa um teste de loop-back de mensagem ao longo do caminho para o recurso de destino.
 
-PATCH - O méotod PATCH aplica modificações parciais a um recurso.
+PATCH - O método PATCH aplica modificações parciais a um recurso.
 
 ## HTTP Status Code
 
