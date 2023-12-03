@@ -3,6 +3,10 @@
   Api REST, que também pode ser chamada de Api RESTful, é uma interface de programação de aplicações que é utilizada se adequando à arquitetura REST. REST (Representational State Transfer) é um conjunto de restrições baseado em princípios fundamentais da arquitetura web, o REST utiliza uma abordagem cliente-servidor e identifica recursos por meio de URLs. A comunicação entre cliente e servidor é realizada por métodos HTTP como GET, POST, PUT e DELETE.
   APIs RESTful são amplamente utilizadas na construção de serviços web devido à sua simplicidade, flexibilidade e eficiência. Elas são comuns em aplicações web, mobile e integração de sistemas distribuídos.
 
+## Diferenças entre REST e RESTFul
+
+  Enquanto REST é um conjunto de princípios e restrições de arquiteturas de softwares. API RESTful são APIs que aderem aos princípios REST, utilizando os conceitos principais como os métodos HTTP, uso de URLs e transferência de dados entre cliente e servidor.
+
 ## HTTP verbs
 
 Os HTTP Verbs, também chamado de métodos HTTP, são métodos de ações que indicam como interagir com um recurso.
