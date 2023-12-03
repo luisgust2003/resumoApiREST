@@ -37,11 +37,11 @@ PATCH - O méotod PATCH aplica modificações parciais a um recurso.
 
 Exemplos mais notáveis de códigos de status:
 
-100 Continue - Indica que o cliente pode continuar com a sua requisição.
-200 OK - Indica que a requisição foi bem-sucedida.
-302 Found - Indica que a requisição deve ser redirecionada temporariamente para outra URI.
-404 Not Found - Indica que o recurso solicitado não foi encontrado no servidor.
-500 Internal Server Error - Indica um erro interno no servidor ao processar a requisição.
+100 Continue - Indica que o cliente pode continuar com a sua requisição.  
+200 OK - Indica que a requisição foi bem-sucedida.  
+302 Found - Indica que a requisição deve ser redirecionada temporariamente para outra URI.  
+404 Not Found - Indica que o recurso solicitado não foi encontrado no servidor.  
+500 Internal Server Error - Indica um erro interno no servidor ao processar a requisição.  
 
 
 
