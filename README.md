@@ -42,9 +42,7 @@ Exemplos mais notáveis de códigos de status:
 302 Found - Indica que a requisição deve ser redirecionada temporariamente para outra URI.  
 404 Not Found - Indica que o recurso solicitado não foi encontrado no servidor.  
 500 Internal Server Error - Indica um erro interno no servidor ao processar a requisição.                                
-  
-  
-  
-  
-  
+
+---
+
 **Autor do resumo: Luis Gustavo de Albuquerque - 01515839**
