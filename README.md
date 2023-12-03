@@ -27,7 +27,21 @@ PATCH - O méotod PATCH aplica modificações parciais a um recurso.
 
 ## HTTP Status Code
 
-Seu texto...
+  Os códigos de status de resposta HTTP são indicadores numéricos enviados pelo servidor para informar o resultado de uma solicitação feita pelo cliente. Esses códigos começam com um número na faixa de 1xx a 5xx, sendo agrupados em cinco classes:
+
+1. Respostas Informativas (100 – 199)
+2. Respostas bem-sucedidas (200 – 299)
+3. Mensagens de redirecionamento (300 – 399)
+4. Respostas de erro do cliente (400 – 499)
+5. Respostas de erro do servidor (500 – 599)
+
+Exemplos mais notáveis de códigos de status:
+
+100 Continue - Indica que o cliente pode continuar com a sua requisição.
+200 OK - Indica que a requisição foi bem-sucedida.
+302 Found - Indica que a requisição deve ser redirecionada temporariamente para outra URI.
+404 Not Found - Indica que o recurso solicitado não foi encontrado no servidor.
+500 Internal Server Error - Indica um erro interno no servidor ao processar a requisição.
 
 
 
